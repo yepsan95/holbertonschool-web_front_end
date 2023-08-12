@@ -25,25 +25,6 @@ a:link {
 
 a:visited {
 	font-style: italic;
-}
-
-a:hover {
-	text-decoration: underline;
-}
-
-a:active {
-	background-color: var(--color-light-grey);
-}
-
-.visually-hidden {
-	display: none;
-}
-
-.card-category {
-	color: var(--color-primary);
-}
-
-.section {
 	padding: var(--section-padding);
 }
 
@@ -64,7 +45,7 @@ a:active {
 }
 
 .nav .nav-item {
-	font-family: var(--nar-item-font-family);
+	font-family: var(--nav-item-font-family);
 	font-weight: var(--nav-item-font-weight);
 	font-size: var(--nav-item-font-size);
 	letter-spacing: var(--nav-item-letter-spacing);
