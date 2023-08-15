@@ -38,7 +38,7 @@ a:visited {
 }
 
 .button:hover {
-	color: var(--button-hober-color);
+	color: var(--button-hover-color);
 	text-decoration: var(--button-hover-text-decoration);
 	background: var(--button-hover-background);
 }
@@ -225,12 +225,12 @@ h1, h2, h3, h4, h5, h6 {
 	--nav-item-link-hover: var(--color-primary);
 	--section-tagline-margin: 0;
 	--button-display: inline-block;
-	--buton-padding: 1.5rem 3rem;
+	--button-padding: 1.5rem 3rem;
 	--button-border: 0.2rem solid var(--color-primary);
 	--button-color: var(--color-black);
 	--button-text-decoration: none;
 	--button-font-size: var(--font-size-large);
 	--button-hover-color: var(--color-white);
-	--button-hover-text-decoration: var(none);
+	--button-hover-text-decoration: none;
 	--button-hover-background: var(--color-primary);
 }
