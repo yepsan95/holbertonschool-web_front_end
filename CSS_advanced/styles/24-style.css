@@ -80,7 +80,6 @@ a:visited {
 	display: block;
 	padding: 2rem;
 	background-color: var(--color-light-grey);
-	text-decoration: none;
 }
 
 .card-services a:hover {
